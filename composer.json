@@ -1,5 +1,5 @@
 {
-    "name": "php-ext/routes",
+    "name": "php-helper/routes",
     "authors": [
         {
             "name": "Oleg G.",
@@ -9,7 +9,7 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "PhpExt\\Routes\\": "src"
+            "PhpHelper\\Routes\\": "src"
         }
     },
     "require": {
