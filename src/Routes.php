@@ -1,11 +1,11 @@
 <?php
 
-namespace PhpExt\Routes;
+namespace PhpHelper\Routes;
 
 use League\Route\RouteCollection;
-use PhpExt\Routes\Enums\HttpMethodEnum;
-use PhpExt\Routes\Enums\RouteEnum;
-use PhpExt\Routes\Exceptions\RouteException;
+use PhpHelper\Routes\Enums\HttpMethodEnum;
+use PhpHelper\Routes\Enums\RouteEnum;
+use PhpHelper\Routes\Exceptions\RouteException;
 
 class Routes
 {

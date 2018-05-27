@@ -1,6 +1,6 @@
 <?php
 
-namespace PhpExt\Routes\Enums;
+namespace PhpHelper\Routes\Enums;
 
 use MyCLabs\Enum\Enum;
 
