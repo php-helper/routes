@@ -1,0 +1,20 @@
+{
+    "name": "php-ext/routes",
+    "authors": [
+        {
+            "name": "Oleg G.",
+            "email": "OlegGin@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "PhpExt\\Routes\\": "src"
+        }
+    },
+    "require": {
+        "php": "^7.2",
+        "league/route": "^3.0",
+        "myclabs/php-enum": "^1.5"
+    }
+}
